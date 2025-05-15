@@ -17,12 +17,6 @@ It performs basic arithmetic operations and features a clear, mobile-friendly UI
 
 ---
 
-## 🌐 Live Demo
-
-> [Live Site](https://Martimic10.github.io/calculator-app/)  
-
----
-
 ## 📁 Folder Structure
 
 calculator-app/
